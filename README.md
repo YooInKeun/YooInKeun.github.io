@@ -10,7 +10,7 @@ YooInKeun Portfolio with Bootstrap Template
 
 2. 프로젝트 경험
 
-3. 언어 및 
+3. 언어 및 관심분야
 
 4. 수상내역
 ```
