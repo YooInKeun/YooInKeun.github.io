@@ -190,3 +190,7 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.award-name {
+  color: #BD5D38 !important;
+}
