@@ -6,11 +6,13 @@ YooInKeun Portfolio with Bootstrap Template
 ### Contents
 
 ```
-1. 프로필 및 활동
+1. 프로필
 
 2. 프로젝트 경험
 
 3. 언어 및 관심분야
 
-4. 수상내역
+4. 활동
+
+5. 수상내역
 ```
