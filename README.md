@@ -1,6 +1,6 @@
 # https://yooinkeun.github.io/
 
-YooInKeun Portfolio with Bootstrap Template
+YooInKeun Portfolio
 ---------------------------------------------
 
 ### Contents
