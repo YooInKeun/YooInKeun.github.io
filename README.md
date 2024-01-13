@@ -16,6 +16,4 @@ https://yooinkeun.github.io
 4. 활동
 
 5. 수상내역
-
-6. 오픈소스 컨트리뷰션
 ```
